@@ -1,33 +1,32 @@
-
 <resources>
     <string name="app_name">Crane</string>
 
     <string name="cd_menu">Menu</string>
-    <string name="cd_back">Back</string>
-    <string name="cd_loading">Loading</string>
-    <string name="cd_drawer">Open drawer</string>
-    <string name="click_label_select">select</string>
-    <string name="state_descr_selected">Selected</string>
-    <string name="state_descr_not_selected">Not selected</string>
-    <string name="screen_title_find_trips">Find Trips</string>
-    <string name="screen_title_my_trips">My Trips</string>
-    <string name="screen_title_saved_trips">Saved Trips</string>
-    <string name="screen_title_price_alerts">Price Alerts</string>
-    <string name="screen_title_my_account">My Account</string>
-    <string name="calendar_select_dates_title">Select Dates</string>
-    <string name="explore_flights_by_destination">Explore Flights by Destination</string>
-    <string name="explore_properties_by_destination">Explore Properties by Destination</string>
-    <string name="explore_restaurants_by_destination">Explore Restaurants by Destination</string>
-    <string name="input_select_location">Select Location</string>
-    <string name="input_select_time">Select Time</string>
-    <string name="select_destination_hint">Choose Destination</string>
-    <string name="select_destination_to_caption">To</string>
-    <string name="select_dates">Select Dates</string>
-    <string name="error_max_people">Error: We don\'t support more than %d people</string>
+    <string name="cd_back">Retour</string>
+    <string name="cd_loading">Chargement</string>
+    <string name="cd_drawer">Ouvrir le tiroir</string>
+    <string name="click_label_select">sélectionner</string>
+    <string name="state_descr_selected">Sélectionné</string>
+    <string name="state_descr_not_selected">Non sélectionné</string>
+    <string name="screen_title_find_trips">Rechercher une destination</string>
+    <string name="screen_title_my_trips">Mes voyages</string>
+    <string name="screen_title_saved_trips">Voyages sauvegardés</string>
+    <string name="screen_title_price_alerts">Alertes de prix</string>
+    <string name="screen_title_my_account">Mon compte</string>
+    <string name="calendar_select_dates_title">Sélectionner des dates</string>
+    <string name="explore_flights_by_destination">Explorer les vols par destination</string>
+    <string name="explore_properties_by_destination">Explorer les propriétés par destination</string>
+    <string name="explore_restaurants_by_destination">Explorer les restaurants par destination</string>
+    <string name="input_select_location">Sélectionner l`emplacement</string>
+    <string name="input_select_time">Sélectionner l`heure</string>
+    <string name="select_destination_hint">Choisir une destination</string>
+    <string name="select_destination_to_caption">À</string>
+    <string name="select_dates">Sélectionner des dates</string>
+    <string name="error_max_people">Erreur : Nous ne prenons pas en charge plus de %d personnes</string>
     <plurals name="number_adults_selected">
-        <item quantity="one"> %d Adult%s</item>
-        <item quantity="other"> %d Adults%s</item>
-        <item quantity="two"> %d Adults%s</item>
-        <item quantity="many"> %d Adults%s</item>
+        <item quantity="one"> %d adulte%s</item>
+        <item quantity="other"> %d adultes%s</item>
+        <item quantity="two"> %d adultes%s</item>
+        <item quantity="many"> %d adultes%s</item>
     </plurals>
 </resources>
