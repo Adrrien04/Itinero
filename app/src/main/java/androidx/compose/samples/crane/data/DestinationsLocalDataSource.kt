@@ -44,7 +44,7 @@ class DestinationsLocalDataSource @Inject constructor() {
             imageUrl = "https://images.unsplash.com/photo-1562625964-ffe9b2f617fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=250&q=$DEFAULT_IMAGE_WIDTH"
         ),
         ExploreModel(
-            city = MADRIDD,
+            city = MADRID,
             description = "5610 Restaurants",
             imageUrl = "https://images.unsplash.com/photo-1515443961218-a51367888e4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
         ),
@@ -62,7 +62,107 @@ class DestinationsLocalDataSource @Inject constructor() {
             city = BALI,
             description = "876 Restaurants",
             imageUrl = "https://images.unsplash.com/photo-1567337710282-00832b415979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        )
+        ),
+        ExploreModel(
+            city = MADRID,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = PARIS,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = TOKYO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = SYDNEY,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = NEWYORK,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = ISTANBUL,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = ROME,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = LONDON,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = BEIJING,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = CAIRO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MEXICOCITY,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MOSCOW,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = DELHI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = CAPE_TOWN,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = BUENOS_AIRES,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = TORONTO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = DUBAI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = SINGAPORE,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MUMBAI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = LOSANGELES,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
     )
 
     val craneHotels = listOf(
@@ -81,11 +181,7 @@ class DestinationsLocalDataSource @Inject constructor() {
             description = "876 Available Properties",
             imageUrl = "https://images.unsplash.com/photo-1570213489059-0aac6626cade?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
         ),
-        ExploreModel(
-            city = BIGSUR,
-            description = "5610 Available Properties",
-            imageUrl = "https://images.unsplash.com/photo-1561409037-c7be81613c1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        ),
+
         ExploreModel(
             city = NAPLES,
             description = "1286 Available Properties",
@@ -100,17 +196,113 @@ class DestinationsLocalDataSource @Inject constructor() {
             city = CORDOBA,
             description = "876 Available Properties",
             imageUrl = "https://images.unsplash.com/photo-1570214476695-19bd467e6f7a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        )
+        ),
+        ExploreModel(
+            city = MADRID,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = PARIS,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = TOKYO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = SYDNEY,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = NEWYORK,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = ISTANBUL,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = ROME,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = LONDON,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = BEIJING,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = CAIRO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MEXICOCITY,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MOSCOW,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = DELHI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = CAPE_TOWN,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = BUENOS_AIRES,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = TORONTO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = DUBAI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = SINGAPORE,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MUMBAI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = LOSANGELES,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
     )
 
     val craneDestinations = listOf(
+
         ExploreModel(
-            city = KHUMBUVALLEY,
-            description = "Nonstop - 5h 16m+",
-            imageUrl = "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        ),
-        ExploreModel(
-            city = MADRIDD,
+            city = MADRID,
             description = "Nonstop - 2h 12m+",
             imageUrl = "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
         ),
@@ -124,35 +316,117 @@ class DestinationsLocalDataSource @Inject constructor() {
             description = "Nonstop - 2h 38m+",
             imageUrl = "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
         ),
-        ExploreModel(
-            city = GRANADA,
-            description = "Nonstop - 2h 12m+",
-            imageUrl = "https://images.unsplash.com/photo-1534423839368-1796a4dd1845?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        ),
+
         ExploreModel(
             city = MALDIVAS,
             description = "Nonstop - 9h 24m+",
             imageUrl = "https://images.unsplash.com/photo-1544550581-5f7ceaf7f992?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
         ),
-        ExploreModel(
-            city = WASHINGTONDC,
-            description = "Nonstop - 7h 30m+",
-            imageUrl = "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        ),
-        ExploreModel(
-            city = BARCELONA,
-            description = "Nonstop - 2h 12m+",
-            imageUrl = "https://images.unsplash.com/photo-1562883676-8c7feb83f09b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        ),
-        ExploreModel(
-            city = CRETE,
-            description = "Nonstop - 1h 50m+",
-            imageUrl = "https://images.unsplash.com/photo-1486575008575-27670acb58db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
-        ),
+
         ExploreModel(
             city = NAPLES,
             description = "1286 Restaurants",
             imageUrl = "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-1.2.1&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
+        ),
+        ExploreModel(
+            city = MADRID,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = PARIS,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = TOKYO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = SYDNEY,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = NEWYORK,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = ISTANBUL,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = ROME,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = LONDON,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = BEIJING,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = CAIRO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MEXICOCITY,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MOSCOW,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = DELHI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = CAPE_TOWN,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = BUENOS_AIRES,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = TORONTO,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = DUBAI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = SINGAPORE,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = MUMBAI,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
+        ),
+        ExploreModel(
+            city = LOSANGELES,
+            description = "Replace with the appropriate description",
+            imageUrl = "Replace with the appropriate image URL"
         ),
     )
 }

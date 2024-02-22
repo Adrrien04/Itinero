@@ -16,67 +16,46 @@
 
 package androidx.compose.samples.crane.data
 
-val MADRIDD = City(
-    name = "Madridd",
+val MADRID = City(
+    name = "Madrid",
     country = "Spain",
     latitude = "40.416775",
     longitude = "-3.703790"
 )
 
-val NAPLES = City(
-    name = "Naples",
-    country = "Italy",
-    latitude = "40.853294",
-    longitude = "14.305573"
+val PARIS = City(
+    name = "Paris",
+    country = "France",
+    latitude = "48.856613",
+    longitude = "2.352222"
 )
 
-val DALLAS = City(
-    name = "Dallas",
-    country = "US",
-    latitude = "32.779167",
-    longitude = "-96.808891"
+val TOKYO = City(
+    name = "Tokyo",
+    country = "Japan",
+    latitude = "35.689487",
+    longitude = "139.691711"
 )
 
-val CORDOBA = City(
-    name = "Cordoba",
-    country = "Argentina",
-    latitude = "-31.416668",
-    longitude = "-64.183334"
+val SYDNEY = City(
+    name = "Sydney",
+    country = "Australia",
+    latitude = "-33.868820",
+    longitude = "151.209296"
 )
 
-val MALDIVAS = City(
-    name = "Maldivas",
-    country = "South Asia",
-    latitude = "1.924992",
-    longitude = "73.399658"
+val NEWYORK = City(
+    name = "New York",
+    country = "USA",
+    latitude = "40.712776",
+    longitude = "-74.005974"
 )
 
-val ASPEN = City(
-    name = "Aspen",
-    country = "Colorado",
-    latitude = "39.191097",
-    longitude = "-106.817535"
-)
-
-val BALI = City(
-    name = "Bali",
-    country = "Indonesia",
-    latitude = "-8.3405",
-    longitude = "115.0920"
-)
-
-val BIGSUR = City(
-    name = "Big Sur",
-    country = "California",
-    latitude = "36.2704",
-    longitude = "-121.8081"
-)
-
-val KHUMBUVALLEY = City(
-    name = "Khumbu Valley",
-    country = "Nepal",
-    latitude = "27.9320",
-    longitude = "86.8050"
+val ISTANBUL = City(
+    name = "Istanbul",
+    country = "Turkey",
+    latitude = "41.0082",
+    longitude = "28.9784"
 )
 
 val ROME = City(
@@ -86,35 +65,143 @@ val ROME = City(
     longitude = "12.496366"
 )
 
-val GRANADA = City(
-    name = "Granada",
-    country = "Spain",
-    latitude = "37.18817",
-    longitude = "-3.60667"
+val LONDON = City(
+    name = "London",
+    country = "United Kingdom",
+    latitude = "51.5074",
+    longitude = "-0.1278"
 )
 
-val WASHINGTONDC = City(
-    name = "Washington DC",
+val BEIJING = City(
+    name = "Beijing",
+    country = "China",
+    latitude = "39.9042",
+    longitude = "116.4074"
+)
+
+val CAIRO = City(
+    name = "Cairo",
+    country = "Egypt",
+    latitude = "30.0444",
+    longitude = "31.2357"
+)
+
+val MEXICOCITY = City(
+    name = "Mexico City",
+    country = "Mexico",
+    latitude = "19.4326",
+    longitude = "-99.1332"
+)
+
+val MOSCOW = City(
+    name = "Moscow",
+    country = "Russia",
+    latitude = "55.7558",
+    longitude = "37.6176"
+)
+
+val DELHI = City(
+    name = "Delhi",
+    country = "India",
+    latitude = "28.6139",
+    longitude = "77.2090"
+)
+
+val CAPE_TOWN = City(
+    name = "Cape Town",
+    country = "South Africa",
+    latitude = "-33.9249",
+    longitude = "18.4241"
+)
+
+val BUENOS_AIRES = City(
+    name = "Buenos Aires",
+    country = "Argentina",
+    latitude = "-34.6118",
+    longitude = "-58.4173"
+)
+
+val TORONTO = City(
+    name = "Toronto",
+    country = "Canada",
+    latitude = "43.6532",
+    longitude = "-79.3832"
+)
+
+val DUBAI = City(
+    name = "Dubai",
+    country = "United Arab Emirates",
+    latitude = "25.276987",
+    longitude = "55.296249"
+)
+
+val SINGAPORE = City(
+    name = "Singapore",
+    country = "Singapore",
+    latitude = "1.3521",
+    longitude = "103.8198"
+)
+
+val MUMBAI = City(
+    name = "Mumbai",
+    country = "India",
+    latitude = "19.0760",
+    longitude = "72.8777"
+)
+
+val LOSANGELES = City(
+    name = "Los Angeles",
     country = "USA",
-    latitude = "38.9072",
-    longitude = "-77.0369"
+    latitude = "34.0522",
+    longitude = "-118.2437"
 )
 
-val BARCELONA = City(
-    name = "Barcelona",
-    country = "Spain",
-    latitude = "41.390205",
-    longitude = "2.154007"
+val NAPLES = City(
+    name = "Naples",
+    country = "Italy",
+    latitude = "40.8522",
+    longitude = "14.2681"
 )
 
-val CRETE = City(
-    name = "Crete",
-    country = "Greece",
-    latitude = "35.2401",
-    longitude = "24.8093"
+val DALLAS = City(
+    name = "Dallas",
+    country = "USA",
+    latitude = "32.7767",
+    longitude = "-96.7970"
+)
+
+val CORDOBA = City(
+    name = "Cordoba",
+    country = "Argentina",
+    latitude = "-31.4201",
+    longitude = "-64.1888"
+)
+
+val MALDIVAS = City(
+    name = "Maldivas",
+    country = "Maldives",
+    latitude = "3.2028",
+    longitude = "73.2207"
+)
+
+val ASPEN = City(
+    name = "Aspen",
+    country = "USA",
+    latitude = "39.1911",
+    longitude = "-106.8175"
+)
+
+val BALI = City(
+    name = "Bali",
+    country = "Indonesia",
+    latitude = "-8.3405",
+    longitude = "115.0919"
 )
 
 val listCities = listOf(
-    ROME, GRANADA, WASHINGTONDC, BARCELONA, CRETE, KHUMBUVALLEY, BIGSUR,
-    BALI, ASPEN, MADRIDD, NAPLES, DALLAS, CORDOBA, BIGSUR, MALDIVAS
+    MADRID, PARIS, TOKYO, SYDNEY, NEWYORK, ISTANBUL,
+    ROME, LONDON, BEIJING, CAIRO, MEXICOCITY, MOSCOW,
+    DELHI, CAPE_TOWN, BUENOS_AIRES, TORONTO, DUBAI,
+    SINGAPORE, MUMBAI, LOSANGELES, MALDIVAS, ASPEN, BALI,
+    CORDOBA, DALLAS, NAPLES
 )
