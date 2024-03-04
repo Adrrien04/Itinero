@@ -263,11 +263,6 @@ class DestinationsLocalDataSource @Inject constructor() {
             imageUrl = "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-1.2.1&auto=format&fit=crop&w=$DEFAULT_IMAGE_WIDTH"
         ),
         ExploreModel(
-            city = MADRID,
-            description = "Vol direct - 2h 12m+",
-            imageUrl = "Replace with the appropriate image URL"
-        ),
-        ExploreModel(
             city = PARIS,
             description = "Vol direct - 1h 30m+",
             imageUrl = "Replace with the appropriate image URL"
