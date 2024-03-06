@@ -24,7 +24,6 @@ Itinero est plus qu'une simple appli de voyage. Elle a été conçue pour vous a
 
 3. Une fois que vous avez cloné le dépôt, vous pouvez commencer à travailler sur votre projet dans Android Studio en ouvrant le dossier que vous avez cloné.
 
-C'est tout pour le moment. Amusez-vous bien avec Crane !
 
 ---
 
