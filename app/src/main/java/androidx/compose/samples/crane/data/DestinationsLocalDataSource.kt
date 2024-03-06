@@ -71,62 +71,62 @@ class DestinationsLocalDataSource @Inject constructor() {
         ExploreModel(
             city = BEIJING,
             description = "Haute cuisine chinoise à Pékin",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.thefork.fr/blog/s3/files/styles/lightbox_content/public/2023-04/repas%20chine-iStock-545286388.jpg?itok=l7pIroJd"
         ),
         ExploreModel(
             city = CAIRO,
             description = "Dîner égyptien en hauteur au Caire",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.voyageegypte.fr/cdn/eg-public/kushari_egypte_shutterstock_1100204009-MAX-w1000h600.jpg"
         ),
         ExploreModel(
             city = MEXICOCITY,
             description = "Saveurs mexicaines à Mexico",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://blog.altiplano-voyage.com/wp-content/uploads/2017/03/tacos_plat_fotolia.jpg"
         ),
         ExploreModel(
             city = MOSCOW,
             description = "Cuisine russe au sommet de Moscou",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://blog.chapkadirect.fr/wp-content/uploads/2018/11/AdobeStock_231219051.jpeg"
         ),
         ExploreModel(
             city = DELHI,
             description = "Expérience culinaire à Delhi",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://images.restopolitan.com/restaurant/new-dehli/308178/Detail.jpg"
         ),
         ExploreModel(
             city = CAPE_TOWN,
             description = "Dîner panoramique au Cap",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.touristsecrets.com/wp-content/uploads/2019/07/main-23-1.jpg"
         ),
         ExploreModel(
             city = BUENOS_AIRES,
             description = "Savourez Buenos Aires en hauteur",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.authenticfoodquest.com/wp-content/uploads/2022/05/1200_BuenosAiresFoods_AuthenticFoodQuest.jpg"
         ),
         ExploreModel(
             city = TORONTO,
             description = "Vue spectaculaire de Toronto",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://frenchradar.b-cdn.net/wp-content/uploads/2021/04/poutine-specialite-canada-frites.jpg"
         ),
         ExploreModel(
             city = DUBAI,
             description = "Dîner exquis avec vue à Dubaï",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://a.cdn-hotels.com/gdcs/production15/d862/ba76ea15-df7f-4afa-a803-94e62326e22c.jpg"
         ),
         ExploreModel(
             city = SINGAPORE,
             description = "Cuisine singapourienne en hauteur",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://ns.clubmed.com/FEAM/Marketing/Omnichannel/SEO/LPOTHERS/GS-1219/GettyImages-492095676.jpg"
         ),
         ExploreModel(
             city = MUMBAI,
             description = "Dîner avec panorama à Mumbai",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://blog.courrierinternational.com/bombay-darling/wp-content/uploads/sites/39/2020/02/Post-9-street-food-vada-pao.jpg"
         ),
         ExploreModel(
             city = LOSANGELES,
             description = "Au sommet du ciel de Los Angeles",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://a.cdn-hotels.com/gdcs/production0/d1513/35c1c89e-408c-4449-9abe-f109068f40c0.jpg"
         )
     ).map { it.copy(description = " ${((1..100).shuffled().first())} Restaurants") }
 
