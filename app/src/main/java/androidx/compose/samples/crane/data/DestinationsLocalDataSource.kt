@@ -31,42 +31,42 @@ class DestinationsLocalDataSource @Inject constructor() {
         ExploreModel(
             city = MADRID,
             description = "Cuisine espagnole moderne",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.equinoxmagazine.fr/wp-content/uploads/2022/04/Cuisine-plats-manger-nourriture-repas-espagnol-Photo-iStock.jpg"
         ),
         ExploreModel(
             city = PARIS,
             description = "Dîner français raffiné",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://resize.elle.fr/original/var/plain_site/storage/images/elle-a-table/les-dossiers-de-la-redaction/dossier-de-la-redac/menu-gastronomique/88780110-1-fre-FR/Comment-faire-un-menu-gastronomique.jpg"
         ),
         ExploreModel(
             city = TOKYO,
             description = "Délices japonais en hauteur",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.terres-japonaises.com/app/media/26/files/2016/06/sushi-japon.jpg"
         ),
         ExploreModel(
             city = SYDNEY,
             description = "Vue panoramique sur Sydney",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.australia-australie.com/wp-content/uploads/2016/11/Lamington.jpg"
         ),
         ExploreModel(
             city = NEWYORK,
             description = "Expérience culinaire au sommet de New York",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.expedia.fr/stories/wp-content/uploads/2021/06/24343-share-image.jpg"
         ),
         ExploreModel(
             city = ISTANBUL,
             description = "Dîner avec vue à Istanbul",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://recettes.de/images/blogs/street-food-cuisine-du-monde/galette-lavash-pour-doner-kebab-turquie-grece-armenie.640x480.jpg"
         ),
         ExploreModel(
             city = ROME,
             description = "Cuisine italienne au-dessus de Rome",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://www.leboulangerparisien.com/wp-content/uploads/2021/03/cuisine-italinne-.jpg.webp"
         ),
         ExploreModel(
             city = LONDON,
             description = "Dégustation britannique avec vue",
-            imageUrl = "Replace with the appropriate image URL"
+            imageUrl = "https://actufood.fr/wp-content/uploads/2023/02/specialites-anglaises.png"
         ),
         ExploreModel(
             city = BEIJING,
